@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokul\\Desktop\\sample.net\\SampleApplication\\SampleApplication\\SampleApplication.csproj": {}
+    "C:\\Users\\gokul\\Desktop\\dotnet_test\\dotnet_test\\SampleApplication\\SampleApplication\\SampleApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokul\\Desktop\\sample.net\\SampleApplication\\SampleApplication\\SampleApplication.csproj": {
+    "C:\\Users\\gokul\\Desktop\\dotnet_test\\dotnet_test\\SampleApplication\\SampleApplication\\SampleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokul\\Desktop\\sample.net\\SampleApplication\\SampleApplication\\SampleApplication.csproj",
+        "projectUniqueName": "C:\\Users\\gokul\\Desktop\\dotnet_test\\dotnet_test\\SampleApplication\\SampleApplication\\SampleApplication.csproj",
         "projectName": "SampleApplication",
-        "projectPath": "C:\\Users\\gokul\\Desktop\\sample.net\\SampleApplication\\SampleApplication\\SampleApplication.csproj",
+        "projectPath": "C:\\Users\\gokul\\Desktop\\dotnet_test\\dotnet_test\\SampleApplication\\SampleApplication\\SampleApplication.csproj",
         "packagesPath": "C:\\Users\\gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokul\\Desktop\\sample.net\\SampleApplication\\SampleApplication\\obj\\",
+        "outputPath": "C:\\Users\\gokul\\Desktop\\dotnet_test\\dotnet_test\\SampleApplication\\SampleApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokul\\AppData\\Roaming\\NuGet\\NuGet.Config"
